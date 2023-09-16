@@ -1,0 +1,4 @@
+PyQt5==5.15.7
+playsound==1.2.2
+comtypes==1.2.0
+pycaw==20230407
